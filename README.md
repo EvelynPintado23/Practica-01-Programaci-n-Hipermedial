@@ -1,45 +1,5 @@
 # Practica-01-Programaci-n-Hipermedial
 
- 	FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
-
-CARRERA: Computación	ASIGNATURA: Programación Hypermedial
-NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA: Resolución de problemas sobre HTML5
-OBJETIVO ALCANZADO:
--	Modelar sitios web en base a los estándares actuales del HTML5
--	Desarrollar aplicaciones amigables e interactiva, utilizando lo aprendido en el tutorial.
-ACTIVIDADES DESARROLLADAS
-1.	Se creó un repositorio en Github con el nombre “Practica-01-Progrmaci-n-Hipermedial” con un nombre de usuario “EvelynPintado23”
- 
-2.	Se realizaron los respectivos commit y push para los requerimientos. 
- 
- 
-3.	Se valida las páginas creadas con W3C
-  
-  
-   
-
-
-4.	Archivo README 
-RESULTADO(S) OBTENIDO(S):
--	Estructurar un sitio web estático usando HTML5. El sitio web deberá contar con una página principal denominada index.html y debe contener al menos cinco páginas *.html más.
- 
-El archivo index.html se denomina ac_index.html, junto con otros 5 archivos *html.
- 
-
- 
-
- 
- 
-
- 
-  
- 
--	Todas las páginas contaran con un menú de navegación que permitirá al usuario moverse entre todas las páginas HTML.
-Para navegar entre todas las páginas se ha creado un hipervínculo denominado “Inicio”, el mismo, se encuentra en cada una de las paginas html
- 
-La cual nos re direcciona a la página principal que es esta
- 
- 
 
 -	La etiqueta deberá contener una imagen (logo) relacionada al tema elegido.
 El logo del tema es el siguiente
